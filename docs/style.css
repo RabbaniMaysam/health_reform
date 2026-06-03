@@ -323,3 +323,11 @@ footer a {
     --accent: #f0b8a0;
   }
 }
+
+/* Acronyms: hover to reveal the full term. Subtle dotted underline signals a definition is available. */
+abbr[title] {
+  text-decoration: underline dotted;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+  cursor: help;
+}
