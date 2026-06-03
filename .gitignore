@@ -32,6 +32,12 @@ texput.log
 # Downloaded source PDFs (copyrighted; do not publish to public repo)
 literature/
 
+# Local compile helpers (hardcode local machine paths; not for public repo)
+latex/compile.R
+latex/compile.bat
+latex/compile.js
+latex/do_compile.py
+
 # Local workflow
 .claude/
 prompts.txt
