@@ -27,6 +27,10 @@ desktop.ini
 output/
 data/temp/
 *.tmp
+texput.log
+
+# Downloaded source PDFs (copyrighted; do not publish to public repo)
+literature/
 
 # Local workflow
 .claude/

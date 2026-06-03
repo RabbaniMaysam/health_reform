@@ -6,7 +6,7 @@ Working paper: *One Drug, Many Prices: A Proposal to Reform US Healthcare Pricin
 
 Sources and derivations for Figure 1 (price gaps across payers) are published at:
 
-**https://rabbanimaysam.github.io/health-reform-proposal/**
+**https://rabbanimaysam.github.io/health_reform/**
 
 The site is built from the `docs/` folder in this repository.
 
